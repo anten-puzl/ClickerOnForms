@@ -5,9 +5,9 @@ go on as long as you need.
 to end recording press 'esc'.
 coordinates stored in 'config.ini'
 
-to play recorded clicks run 'play.py'
-when launched, a window for entering a pause between clicks will be displayed.
-Then program will repeat clicks from the list untill esc is pressed.
+To play recorded clicks run 'play.py'.
+When program is launched, a window for entering a pause between clicks will be displayed.
+Program will repeat clicks from the list untill esc is pressed.
 
 Эта программа записывает и воспроизводит клики мышкой.
 Запустите 'record.py' для записи кликов.
